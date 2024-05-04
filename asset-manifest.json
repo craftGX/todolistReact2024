@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/craftGX/todolistReact2024/static/css/main.e05ab3bc.css",
+    "main.js": "/craftGX/todolistReact2024/static/js/main.129bea83.js",
+    "static/js/453.59bb3b6d.chunk.js": "/craftGX/todolistReact2024/static/js/453.59bb3b6d.chunk.js",
+    "index.html": "/craftGX/todolistReact2024/index.html",
+    "main.e05ab3bc.css.map": "/craftGX/todolistReact2024/static/css/main.e05ab3bc.css.map",
+    "main.129bea83.js.map": "/craftGX/todolistReact2024/static/js/main.129bea83.js.map",
+    "453.59bb3b6d.chunk.js.map": "/craftGX/todolistReact2024/static/js/453.59bb3b6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05ab3bc.css",
+    "static/js/main.129bea83.js"
+  ]
+}
